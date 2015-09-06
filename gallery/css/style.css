@@ -19,15 +19,9 @@ body a{
 	min-height:700px;
 }
 .header {
-	padding: 2em 0em;
+	padding:300px 0px;
 }
-.logo{
-	float:left;
-	padding:1.2em 1em;	
-}
-.menu{
-	float:right;
-}
+
 /*--- Navigation---*/
 .box{
 	position:absolute;
