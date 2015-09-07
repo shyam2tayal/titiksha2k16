@@ -454,9 +454,15 @@ header h1.stuck_head {
 }
 .page1_header .banner:first-child + .banner + .banner {
   background-color: green;
+<<<<<<< HEAD
 }
 .page1_header .banner:first-child + .banner + .banner+ .banner {
   background-color: crimson;
+=======
+} 
+.page1_header .banner:first-child + .banner + .banner + .banner{
+  background-color:crimson;  
+>>>>>>> master
 }
 .page1_header .banner + .banner + .banner {
   padding-top: 63px;
