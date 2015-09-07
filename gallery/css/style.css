@@ -450,10 +450,19 @@ header h1.stuck_head {
   line-height: 48px;
 }
 .page1_header .banner:first-child + .banner {
-  background-color: darkslateblue;
+  background-color: slateblue;
 }
 .page1_header .banner:first-child + .banner + .banner {
-  background-color: seagreen;
+  background-color: green;
+<<<<<<< HEAD
+}
+.page1_header .banner:first-child + .banner + .banner+ .banner {
+  background-color: crimson;
+=======
+} 
+.page1_header .banner:first-child + .banner + .banner + .banner{
+  background-color:crimson;  
+>>>>>>> master
 }
 .page1_header .banner + .banner + .banner {
   padding-top: 63px;
